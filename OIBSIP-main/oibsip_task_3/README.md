@@ -21,8 +21,7 @@ This project is a command-line tool that generates random passwords based on use
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/eadewusic/OIBSIP.git
-   cd oibsip_task1
+   git clone https://github.com/uditbaliyan/Oasis-Infobyte-internship.git
    ```
 
 2. **Run the script:**
@@ -76,12 +75,3 @@ The generated password is: qHlCwPndTDBkH1
    - Managing different character sets (letters, numbers, symbols) and combining them based on user preferences.
 4. **Error Handling:**
    - Ensuring that user input is the correct spelling, meets our set criteria and has minimum length > 0.
-
-## Demo Video
-
-- [YouTube](https://youtu.be/7uCQfN4d4Bk?si=lZhU2vQxZsxK-IAf)
-- [TikTok](https://www.tiktok.com/@climiradiroberts/video/7378191496161365253?_t=8n3J68HrTwT&_r=1)
-
-## Contact
-
-If you have any questions, feedback, or collaboration requests, please feel free to reach out to me at [e.adewusi@alustudent.com](mailto:e.adewusi@alustudent.com).
