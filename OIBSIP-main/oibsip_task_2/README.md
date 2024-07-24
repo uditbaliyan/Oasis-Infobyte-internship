@@ -32,8 +32,7 @@ This project is a command-line Body Mass Index (BMI) calculator written in Pytho
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/eadewusic/OIBSIP.git
-   cd oibsip_task3
+   git clone https://github.com/uditbaliyan/Oasis-Infobyte-internship.git
    ```
 
 2. **Run the script:**
@@ -68,24 +67,3 @@ Do you want to calculate another BMI? (yes/no): no
 Thank you for using the BMI Calculator. Goodbye!
 ```
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Contributions are welcome **only after September 2024**!
-
-## Demo Video
-
-- [YouTube](https://youtu.be/WGevpQAsOmk)
-- [TikTok](https://vm.tiktok.com/ZMrmcw6MS/)
-
-## Contact
-
-If you have any questions, feedback, or collaboration requests, please feel free to reach out to me at [euniceadewusic@gmail.com](mailto:euniceadewusic@gmail.com).
-
-## Acknowledgements
-
-This project is a simple yet effective tool to help users understand their BMI and its classification. It is intended for educational purposes and should not be used as a substitute for professional medical advice.
-
-Below are the list of resources I used for this project, in APA7 Citation style:
-
-- Calculator.net. (2019). BMI Calculator. Calculator.net. [https://www.calculator.net/bmi-calculator.html](https://www.calculator.net/bmi-calculator.html)
-- Wikipedia. (2024, July 10). Body mass index. Wikipedia. [https://en.wikipedia.org/wiki/Body_mass_index#Categories](https://en.wikipedia.org/wiki/Body_mass_index#Categories)
